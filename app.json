@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "workoutTracker",
+    "slug": "workoutTracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/dumbbellIcon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/dumbbellIcon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jennyhoi.soveltavaharjoitustyoejeho006xamk"
+    },
+    "web": {
+      "favicon": "./assets/dumbbellIcon.png"
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "a4a183c8-4ed5-4e31-8f15-ede5ea1b6cd7"
+      }
+    }
+  }
+}
