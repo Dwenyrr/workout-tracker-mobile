@@ -10,3 +10,7 @@ This application is created using TypeScript, React Native, Expo device componen
 * User can track their resting time between sets with haptics alert
 * User can take progress photos
 * All of the data is saved locally to the mobile device via Expo SQLite
+
+![image](https://github.com/user-attachments/assets/7241ed44-37bb-4fce-a07b-486485c9e22f)
+
+
