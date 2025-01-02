@@ -1,4 +1,4 @@
-# Workout Tracker React Native Application Application Programming Course 
+# Workout Tracker - React Native Application
 
 This is a school project for Application Programming course. The aim of this project was to practice developing a mobile application with React Native.
 This application is created using TypeScript, React Native, Expo device components (camera, haptics), Expo SQLite and Redux techniques. 
